@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kanchan Shevkar</h1>
-<h3 align="center">Associate Software Engineer | Flutter Developer | Frontend Engineer</h3>
+<h3 align="center">Software Developer | Flutter Developer | Frontend Developer</h3>
 
 <p align="center">
 Building scalable mobile & web applications with Flutter, ReactJS & NextJS 🚀
